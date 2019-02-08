@@ -14,9 +14,9 @@ class Stack
     def peek
       
     end
-  end
+end
 
-  class Queue
+class Queue
 
     def initialize
         array = []
@@ -34,12 +34,30 @@ class Stack
 
     end
 
+end
 
-    def map
+class Map
 
-        
-
+    def initialize
 
     end
 
-  end
+    def set(key, value)
+
+    end
+
+    def get(key)
+
+    end
+
+    def delete(key)
+
+    end
+
+    def show
+
+    end
+
+
+
+end
